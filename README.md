@@ -1,4 +1,4 @@
-# Note-Dashboard-Checker
+# Note-Status-Checker
 noteのダッシュボードをすぐに確認できるChrome拡張機能です
 
 【使い方】
