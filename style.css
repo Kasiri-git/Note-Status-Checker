@@ -1,0 +1,38 @@
+body {
+  width: 300px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  padding: 10px;
+  background-color: #99e5d9; /* 黄緑の背景色 */
+}
+
+h1 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center; /* 文字列を中央に配置 */
+  border-bottom: 1px solid #ddd;
+  border-left: 1px solid #ddd; /* 縦の線を追加 */
+}
+
+th:first-child,
+td:first-child {
+  border-left: none; /* 最初の列の縦の線を削除 */
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+td {
+  background-color: white; /* 白の背景色 */
+}
